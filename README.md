@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nhatlinh
+- 👋 Hi, I’m @nhatlinh2010
 - 👀 I’m interested in information technology and english
 - 🌱 I’m currently learning Hai Luu secondary school
 - 💞️ I’m looking to collaborate on mirai bot
-- 📫 How to reach me 0981343904
-- 😄 Pronouns: Manh ,she
+- 📫 How to reach me 0981343904 or mongnhatlinh09092010@gmail.com
+- 😄 Pronouns: Manh,she
 - ⚡ Fun fact: English and programming
 
 <!---
